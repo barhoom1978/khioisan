@@ -1,0 +1,7 @@
+gunicorn
+django-heroku
+pandas
+numpy
+numpy_financial
+datetime
+django
